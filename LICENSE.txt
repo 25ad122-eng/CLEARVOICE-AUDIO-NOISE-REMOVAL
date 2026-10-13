@@ -1,0 +1,1 @@
+Educational project. Use and modify at your own discretion. Third-party R packages retain their own licenses.
